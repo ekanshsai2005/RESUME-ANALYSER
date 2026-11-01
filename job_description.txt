@@ -1,0 +1,15 @@
+Junior Backend / Data Engineer
+
+We are looking for a developer with strong Python and SQL skills to build REST APIs
+and data pipelines.
+
+Requirements:
+- Python, Flask or Django or FastAPI
+- PostgreSQL and MySQL
+- Docker and Kubernetes
+- AWS (EC2, S3)
+- CI/CD with GitHub Actions
+- Git, Linux
+- Pandas, ETL, data analysis
+- Understanding of data structures and algorithms
+- Agile / Scrum experience, good communication and problem solving

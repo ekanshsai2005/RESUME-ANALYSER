@@ -1,0 +1,16 @@
+ANANYA RAO
+B.Tech Computer Science | ananya@example.com
+
+SKILLS
+Python, Java, SQL, MySQL, HTML, CSS, JavaScript, React, Flask, Git, GitHub,
+Pandas, NumPy, scikit-learn, Machine Learning, Data Structures, Algorithms,
+Object-Oriented Programming, Linux
+
+PROJECTS
+Student Performance Predictor - Built a machine learning model with scikit-learn and
+Pandas to predict exam outcomes; deployed with Flask and a REST API.
+Portfolio Website - React and CSS front end hosted via GitHub.
+
+EXPERIENCE
+Software Intern - Worked in an Agile team, wrote SQL queries on MySQL, and used Git
+for version control. Strong teamwork and communication skills.
